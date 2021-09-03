@@ -112,20 +112,20 @@ p {
     font-size: 36px;
 }
 
-/* 1. CONSOLODATED ASSOCIATED aside CLASSES INTO ONE STYLE */
+/* 1. CONSOLODATED ASSOCIATED section CLASSES INTO ONE STYLE */
 /* 2. FURTHER CONSOLODATED BY MERGING ALL CLASSES INTO .benefitContent*/
 .benefitContent {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-/* CONSOLODATED aside h3 HEADERS INTO ONE STYLE */
+/* CONSOLODATED .benefitContent h3 HEADERS INTO ONE STYLE */
 .benefitContent h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
-/* CONSOLODATED aside img(s) INTO ONE STYLE */
+/* CONSOLODATED .benefitContent img(s) INTO ONE STYLE */
 .benefitContent img {
     display: block;
     margin: 10px auto;
