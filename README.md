@@ -9,5 +9,7 @@ An exercise in refactoring, including consolidation of code!
 ## Website
 https://zbreezie.github.io/Horiseon
 
+![](horiseon.png)
+
 ## Contribution
 Made with ❤️ by Zachary McCollum
